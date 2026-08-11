@@ -1,0 +1,10 @@
+$nomention
+$title[Successfully Generated Ticket!]
+$newTicket[1409162898768396299;No trouble specified.;]
+$color[#FF0000]
+🔴 [Enter greet message]
+✅ [Enter Success Message] <@$authorID>.
+
+[optional message]
+
+🔒 *To close the ticket, type \`[Cmd trigger]`* ;;❌ [Enter Fail Message]]
