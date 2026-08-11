@@ -1,0 +1,18 @@
+$nomention
+
+$if[$message==1]
+$title[**FUN**]
+$description[kn!8ball kn!rps]
+$endif
+
+$if[$message==2]
+$title[**OTHERS**]
+$description[kn!poll]
+$endif
+
+$if[$message==3]
+$title[**MODERATION**]
+$description[kn!ban kn!warn kn!purge kn!kick kn!setlogging]
+$endif
+
+-# Some commands can only be used by staff members.
