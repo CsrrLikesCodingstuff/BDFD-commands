@@ -1,0 +1,10 @@
+$nomention $cooldown[10m;You need to wait %time%]
+$title[Commands]
+$description[Choose from the menu below]
+$footer[Commands]
+$addTimestamp
+$color[$random[00000;99999]]
+$newSelectMenu[Help;1;1;Please select a category]
+$addSelectMenuOption[Help;Fun;1;Fun;no;]
+$addSelectMenuOption[Help;Others;2;;no;]
+$addSelectMenuOption[Help;Moderation;3;;no;]
