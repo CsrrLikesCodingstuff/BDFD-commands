@@ -1,0 +1,7 @@
+$nomention
+$if[$isTicket[]==false]
+❌ The command can only be used in a ticket channel!
+$else
+🔒 Clearing ticket channel. Closing in 5 secs!
+$closeTicket[5s]
+$endif
